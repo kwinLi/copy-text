@@ -1,0 +1,11 @@
+{
+  "name": "copy-text",
+  "version": "1.0.0",
+  "description": "copy text to clipboard.",
+  "main": "copy-text.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["copy"],
+  "license": "ISC"
+}
